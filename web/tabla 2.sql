@@ -1,0 +1,1 @@
+INSERT INTO  piolin.usuarios (id_usuarios, nombre, ap, am, correo, contra, edad, id_tusuario) VALUES(null, 'Toño', 'Pedro', 'Hernandez', 'toñopap@gmail.com', 'toñostatus', 1000-07-12, NULL);

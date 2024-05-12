@@ -1,0 +1,1 @@
+INSERT INTO piolin.tusuarios (id_tusuario, nombre, descripcion) VALUES (NULL, 'sistemas', 'este usuario tendria los permisos de un usuario de sistemas');

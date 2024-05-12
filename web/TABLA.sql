@@ -1,0 +1,1 @@
+CREATE TABLE piolin.usuarios ( id_usuarios INT AUTO_INCREMENT NOT NULL, nombre VARCHAR (55) NOT NULL, ap VARCHAR (55) NOT NULL, am VARCHAR (55) NOT NULL, correo VARCHAR (255) NOT NULL , contra VARCHAR (255) NOT NULL, edad DATE NOT NULL, id_tusuario int NOT NULL, PRIMARY KEY(id_usuarios))ENGINE = INNODB;
